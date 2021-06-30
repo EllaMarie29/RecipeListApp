@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFED99"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#EBA83A">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/icon"
+            android:paddingLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_toRightOf="@+id/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recipe List"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:fontFamily="serif-monospace"
+            android:textSize="30sp" android:layout_centerVertical="true"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/rel_bg"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/bfast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Breakfast"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:fontFamily="serif-monospace"
+            android:textSize="30sp"/>
+        <TextView
+            android:id="@+id/lunch"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/bfast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Lunch"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:fontFamily="serif-monospace"
+            android:textSize="30sp"/>
+        <TextView
+            android:id="@+id/dinner"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/lunch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Dinner"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:fontFamily="serif-monospace"
+            android:textSize="30sp"/>
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

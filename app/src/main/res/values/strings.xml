@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+
+
+    <string name="breakfast1">SHEEPHERDER’S BREAKFAST</string>
+    <string name="breakfast2">TWICE BAKED BREAKFAST POTATOES</string>
+    <string name="breakfast3">Loco Moco</string>
+
+    <string name="bf1_ing">
+
+       •	3/4 pound bacon strips, finely chopped\n
+        •	1 medium onion, chopped\n
+        •	1 package (30 ounces) frozen shredded hash brown potatoes, thawed\n
+        •	8 large eggs\n
+        •	1/2 teaspoon salt\n
+        •	1/4 teaspoon pepper\n
+        •	1 cup shredded cheddar cheese\n
+
+
+    </string>
+    <string name="bf2_ing">
+       •	Pepper\n
+        •	Cheddar cheese\n
+        •	Potato\n
+        •	Salt\n
+        •	Egg\n
+        •	Butter\n
+        •	Chives\n
+        •	Heavy cream\n
+        •	Bacon
+
+    </string>
+    <string name="bf3_ing">
+
+    •    Hamburger patties\n
+    •	 8 ounces lean ground beef\n
+    •	 1 teaspoon salt\n
+    •	 ½ teaspoon garlic powder\n
+    •	 1/2 teaspoon onion powder\n
+    •	 ¼ teaspoon ground white pepper\n
+    •	 1 tablespoon neutral oil\n
+    •    Mushroom gravy\n
+    •	 4 tablespoons unsalted butter divided\n
+    •	 2 garlic cloves minced\n
+    •	 4 ounces shiitake mushrooms stems removed and thinly sliced\n
+    •	 3 tablespoons all purpose flour\n
+    •	 1 2/3 cups chicken stock\n
+    •	 salt and pepper to taste\n
+    •    Fried eggs\n
+    •	 1 tablespoon neutral oil\n
+    •	 2 large eggs\n
+
+    </string>
+
+    <string name="pro1_bf">
+       •	In a large skillet, cook bacon and onion over medium heat until bacon is crisp.
+        Drain, reserving 1/4 cup drippings in pan.\n
+•	Stir in hash browns. Cook, uncovered, over medium heat until bottom is golden brown,
+        about 10 minutes. Turn potatoes. With the back of a spoon, make 8 evenly spaced
+        wells in potato mixture. Break 1 egg into each well. Sprinkle with salt and pepper.\n
+•	Cook, covered, on low until eggs are set and potatoes are tender, about 10 minutes. Sprinkle with cheese; let stand until cheese is melted.
+
+    </string>
+    <string name="pro2_bf">
+        1.	Preheat oven to 400˚F.\n
+2.	Place potatoes directly on oven rack in the center of the oven and bake for 40 to 45 minutes or until potatoes are tender through the center.\n
+3.	Remove from oven and cool potatoes for about 15 minutes.\n
+4.	Slice each potato in half lengthwise and hollow each half out, scooping the potato flesh into a mixing bowl.\n
+5.	Turn each potato half over and carefully slice the bottoms with a knife (making sure not to slice through the hollowed enters) so each potato is level. This will really help keep everything intact when the eggs are added to the hollowed potatoes. \n
+6.	Add butter and cream to the potato filling and mash together until smooth. Season with salt and pepper and stir together.\n
+7.	Spread 1 tablespoon of potato mixture into the bottom of each hollowed potato skin and sprinkle with 1 tablespoon cheese (you will have some remaining mashed potato left to nibble on).\n
+8.	Add 1 rasher bacon to each half and top with a raw egg.\n
+9.	Place potatoes onto a baking sheet and return to the oven.\n
+10.	Lower oven temperature to 375˚F and bake potatoes until egg whites just set and yolks are still runny, 18 to 24 minutes.\n
+11.	Top each potato with a sprinkle of the remaining cheese and return to the oven for one minute. Top with sliced chives and serve!\n
+
+
+    </string>
+    <string name="pro3_bf">
+        1.	For hamburger patties, Place ground beef, salt, garlic powder, and black pepper into a mixing bowl and mix together. Form 2 even (4 ounce) patties and lightly season each side with salt and pepper.\n
+2.	Pour oil into a large skillet and place over medium-high heat.\n
+3.	Once skillet is hot, add burger patties and sear for 3 to 4 minutes on each side. Reduce heat to medium and continue to cook burgers until medium doneness, an additional 3 to 4 minutes.\n
+4.	Remove patties from the skillet and set aside, loosely covered with foil.\n
+5.	For mushroom gravy: Add 2 tablespoons butter to a saucepan and place over medium-high heat. Add garlic and mushrooms and sauté for about 3 minutes or until mushrooms are lightly caramelized. Season with salt and pepper. Melt remaining butter into the mixture, sprinkle with flour and stir together. Lower heat to medium and stir in stock. Continue to stir until no lumps remain and gravy has thickened enough to coat the back of a wooden spoon, about 5 minutes. Adjust seasonings. Cover and set aside.\n
+6.	For eggs: In another skillet, add oil and place over medium-high heat. Once skillet is hot, add eggs and fry for 4 to 5 minutes or until whites have set and edges are crisp. Remove from heat.\n
+7.	To assemble: Divide rice between two plates and top each with a burger patty, followed by a ladle of gravy, a fried egg, and another ladle of gravy. Finish each dish with a sprinkle of furikake seasoning and sliced chives. Serve.\n
+
+    </string>
+
+
+    <string name="lunch1">PB&amp;J Rolls</string>
+    <string name="lunch2">Walt’s Chili</string>
+    <string name="lunch3">Tonga Toast</string>
+
+    <string name="l1_ing">
+       • 8 slices wheat bread\n
+        • 3/4 c. creamy peanut butter, divided\n
+        • 3/4 c. strawberry jelly\n
+    </string>
+    <string name="l2_ing">
+       1/4 c. olive oil\n
+        3/4 lb. beef stew meat\n
+        1 small onion, diced\n
+        1 medium green bell pepper, diced\n
+        4 cloves garlic, minced\n
+        1 lb. ground beef\n
+        1 tbsp. ground cumin\n
+        1 1/2 tbsp. chili pepper\n
+        1 tbsp. onion pepper\n
+        3/4 tsp. cayenne pepper\n
+        3 tbsp. tomato paste\n
+        2 plum tomatoes\n
+        1(28-oz.) can diced tomatoes\n
+        2 tbsp. beef base\n
+        1 1/2 c. water\n
+        1(14.5-oz.) can pinto beans, rinsed and drained\n
+        Coarse salt, to taste\n
+        1/2 c. sour cream\n
+        1 c. shredded cheddar\n
+        2 diced tomatoes, for garnish\n
+
+    </string>
+    <string name="l3_ing">
+        STRAWBERRY COMPOTE\n
+            2 1/2 c. strawberries, washed and sliced\n
+            1/3 c.coconut milk\n
+            3 tbsp. granulated sugar\n
+            CINNAMON SUGAR\n
+            3/4 c. granulated sugar\n
+            2 tsp. cinnamon\n
+            BATTER\n
+            4 eggs\n
+            1 1/3 c. whole milk\n
+            1/4 tsp. cinnamon\n
+            1 tbsp.granulated sugar\n
+            TONGA TOAST\n
+            1 qt. canola oil, for frying\n
+            1 (12") loaf sourdough bread, uncut\n
+            2 large bananas, peeled\n
+
+    </string>
+
+    <string name="pro1_l">
+       1. Roll Out Bread: Cut crusts off bread. Flatten bread with a rolling pin until bread can bind after being rolled.\n
+2. Spread Peanut Butter: Spread 11/2 tbsp. of peanut butter evenly on each slice of flattened bread, leaving a small border on all sides—the peanut butter will spread as you roll.\n
+3. Assemble Rollups: Starting with the long side of bread, gently roll up each slice, forming a log. Cut each roll into 4 even pieces. Place 8 pieces of rollups onto each plate, seam-side down.\n
+4. Make Piping Bag: Place plastic quart-size freezer bag into small cup, folding back first few inches of bag over top of cup. Spoon jelly into bag, gently shaking bag to move jelly to bottom of bag. (Note: If jelly is too thick to drizzle, add a small amount of warm water to it in a small bowl. Mix to desired consistency before adding to bag). Once filled, lift bag from cup, squeezing out excess air. Twist top of bag a few times to seal it. Cut bottom corner of bag with scissors. Once filled, lift bag from cup and squeeze out excess air from bag and seal bag with a few twists to top of bag. Cut bottom corner of bag with scissors.\n
+5. Drizzle Jelly: Holding right below the twisted top of the bag with one hand and guiding with your free hand, gently squeeze to drizzle jelly over each peanut butter roll in a zigzag motion.\n
+
+    </string>
+    <string name="pro2_l">
+       1. Sear Stew Meat: In a large Dutch oven over medium heat, heat 2 tbsp. of oil, 5 minutes. Add stew meat and cook until meat is brown on all sides, 10 minutes. Remove stew meat from the pan and set aside.\n
+2. Sauté Vegetables: Add remaining 2 tbsp. oil to Dutch oven and let heat for 3 minutes. Add onion and bell pepper and cook until soft, 10 minutes. Add garlic and cook until fragrant, about 1 minute.\n
+3. Cook Ground Beef: Add ground beef and cook, stirring occasionally, until beef is no longer pink, about 10 minutes. Drain excess fat.\n
+4. Add Beans: Return stew meat to Dutch oven with ground beef mixture. Add ground cumin, chili powder, onion powder, cayenne pepper, tomato paste, fresh and canned diced tomatoes, beef base, and water. Bring chili to a simmer. Cover and simmer over low heat for 3 hours, until stew meat is tender. Add pinto beans. Simmer until beans are warm, 10 minutes. Season with salt, as needed.\n
+5. Serve: Ladle into bowls and garnish with sour cream, cheddar and diced tomatoes.\n
+
+
+    </string>
+    <string name="pro3_l">
+       1.	Make Strawberry Compote, Combine strawberries, coconut milk, and sugar in a blender. Blend until smooth. Refrigerate until ready to serve.\n
+2. Make Cinnamon Sugar: In a medium bowl (large enough to roll toast), use a fork to thoroughly combine sugar and cinnamon.\n
+3. Make Tonga Toast: In a second medium bowl (large enough to dip toast), whip eggs until well beaten. Add milk, cinnamon, and sugar. Mix well.\n
+4. Heat Oil: With caution, preheat oil to 350°F in large pot. (Use a candy thermometer to make certain the oil does not get any hotter or it will burn.)\n
+5. Prep Bread: Slice bread into four 3"-thick slices.\n
+6. Prep Banana: Cut each banana in half crosswise, then each piece lengthwise.\n
+7. Fry Toast: Place a bread slice flat on the counter and tear out just enough from the middle (do not tear all the way through) to stuff in two banana pieces; repeat with each bread slice. Dip stuffed bread into batter, covering both sides, allowing excess batter to drip off bread and place carefully into hot oil with heat-safe tongs. Cook until golden brown, 4 to 5 minutes, turning halfway through, if needed. Remove and drain excess oil.\n
+8. Serve: Roll toast in cinnamon sugar. Repeat for each piece of toast. Serve with chilled strawberry compote.\n
+
+    </string>
+
+    <string name="dinner1">Maple Soy Salmon</string>
+    <string name="dinner2">Crisp Skinned Barramundi</string>
+    <string name="dinner3">Clay Pot Snapper</string>
+
+    <string name="d1_ing">
+       	3/4 cup maple syrup\n
+        	3/4 cup soy sauce\n
+        	1 1/2 tablespoons finely grated fresh ginger\n
+        	1 1/2 tablespoons lime juice\n
+        	1 side fresh salmon skinned, pin-boned, trimmed.\n
+
+    </string>
+    <string name="d2_ing">
+        	4 Barramundi fillets, skin on (or other white fish)\n
+        	6 red or yellow capsicums (peppers), or a combination\n
+        	2 small red onions\n
+        	1/3 cup extra virgin olive oil\n
+        	 sea salt and freshly ground black pepper\n
+        	2 tbsp baby capers, rinsed and drained\n
+        	2 tbsp raisins\n
+        	1 tablespoon sugar\n
+        	1/2 cup red wine vinegar\n
+        	6-8 basil or mint leaves\n
+
+    </string>
+    <string name="d3_ing">
+       	750 grams snapper fillets, skin off (4 large)\n
+        	1 1/2 tablespoons Ata’s spice mix: equal quantities\n ground turmeric, sweet paprika, \nhot paprika, cumin, baharat, chilli (optional)\n
+        	1/2 bunch flat leaf (Italian) \nparsley leaves only, roughly chopped\n
+        	50 grams Butter chopped\n
+        	 sea salt\n
+        	1 lemon sliced\n
+        	 chopped fresh chilli or pickled peppers, for serving\n
+
+    </string>
+
+    <string name="pro1_d">
+      1.	Start this recipe the day before serving. Lay the fish in a non-reactive dish. Mix the soy, maple syrup, ginger and lime in a small bowl then pour over so that the fish is covered (or just-about) with the liquid. Cover with plastic wrap and refrigerate for 24 hours, turning several times.\n
+2.	Take the marinated fish out of the fridge two hours before cooking.\n
+3.	Heat the grill pan to medium-high. Remove the salmon from the marinade and drain. Cook the salmon face (the side that did not have the skin) side down for a couple of minutes until it lifts up easily and has dark char lines.\n
+4.	Using two slides, carefully turn the salmon over to cook the other side for another couple of minutes. Remove from the pan and allow to rest for at least 20 minutes, covered loosely with foil. Serve with salad.\n
+
+    </string>
+    <string name="pro2_d">
+      1.	To make the peperonata, wash the capsicums, cut in half lengthways, remove the seeds and chop into 2 cm (3⁄4 inch) squares.\n
+2.	Slice the onions and put them in a large frying pan with the olive oil, capsicum, salt and pepper. Add the capers and raisins, cover and cook over low heat for about 15 minutes, stirring regularly.\n
+3.	Add the vinegar and sugar to the pan, stir and continue to simmer, uncovered, until the liquid has evaporated, about 30 minutes. Remove from the stove and add the basil or mint leaves. Set aside.\n
+4.	To cook the barramundi, season the fillets generously with salt and pepper and drizzled with a little oil. Heat an oven proof non stick fry pan on the stove. When hot, place the fish fillets skin side down in the pan. Allow to cook for a couple of minutes until the skin golden brown and comes away easily from the pan. Carefully turn each piece over and cook in the oven for 3 - 5 minutes, depending on the thickness. Remove from the oven when just about cooked through and allow to rest. loosely covered with foil, for 5 minutes.\n
+5.	Serve each fish fillet with a spoonful of the peperonata and drizzle with a little olive oil to serve.\n
+
+
+    </string>
+    <string name="pro3_d">
+     To make the snapper,\n
+1.	You will need a clay pot or a wide flat ovenproof dish. Toss the fish with the spice mix, three-quarters of the parsley leaves and the butter and place in the clay pot or dish. Leave to marinate at room temperature for 30 minutes.\n
+2.	Preheat the oven to 210°C (410°F/Gas 6-7).\n
+3.	Season the fish generously with salt, top with the lemon slices and drizzle with the olive oil. Cover with foil or a lid and roast for 20 minutes. Remove the cover and return to the oven for 5 minutes or until fish is just cooked through.\n
+1.	Meanwhile, to make the burghul pilaf, melt the butter in a frying pan over medium heat. Add the noodles and toss, then add the burghul and cook in the butter for a minute. Add 1 cup of the water and stir. Cover with a lid, turn the heat down and cook for 5 minutes until the burghul softens and the water is absorbed. Add the remaining water, stir, cover with the lid and cook for a few minutes until the water is absorbed. If the burghul is not cooked once all the water has been absorbed, add a little more water and steam until just cooked. Add the parsley and season with salt.\n
+2.	Garnish the fish with the remaining parsley and serve with burghul pilaf and the chilli on the side\n
+
+    </string>
+
+
+</resources>
